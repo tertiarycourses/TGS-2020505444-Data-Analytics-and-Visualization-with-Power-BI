@@ -1,0 +1,14 @@
+.env
+.env.*
+.claude/
+assessment/
+reference/
+build/
+qa/
+courseware/assets/
+courseware/archive/
+*.tmp
+~$*
+.DS_Store
+__pycache__/
+*.pyc
